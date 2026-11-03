@@ -1,0 +1,8 @@
+{
+  "name": "SK Ladies Tailor",
+  "description": "Business management and real-time customer stitching order tracking application for SK Ladies Tailor in Marathi and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

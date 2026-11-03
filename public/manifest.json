@@ -1,0 +1,19 @@
+{
+  "short_name": "SK Tailor",
+  "name": "SK Ladies Tailor | एस. के. लेडीज टेलर",
+  "icons": [
+    {
+      "src": "/src/assets/images/tailor_shop_emblem_1793686503000.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#fff1f2",
+  "theme_color": "#e11d48",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "description": "Business management and customer order tracking for SK Ladies Tailor."
+}
